@@ -1,3 +1,3 @@
-github.com/eliketane/news
+module github.com/eliketane/news
 
 go 1.21.6
